@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/32652476/README.md)
-# Kinetic Poly
+# Kinetic PolyMarket Trading
 
 Market data and execution infrastructure for Polymarket sports
 prediction markets. A common async interface over Polymarket (Gamma
